@@ -1,5 +1,20 @@
 # Changelog
 
+## [25.94.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.93.0...v25.94.0) (2025-12-24)
+
+
+### Features
+
+* **add:** 4090631U9 ([#11094](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11094)) ([18913d1](https://github.com/Koenkk/zigbee-herdsman-converters/commit/18913d1e9c974c8e959b90a3135b8bdd41036443))
+* **add:** mkomfy25 ([#11083](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11083)) ([c1c68fa](https://github.com/Koenkk/zigbee-herdsman-converters/commit/c1c68fa3fe0b58226f2fdcc5d15ff4e95297e7f2))
+
+
+### Bug Fixes
+
+* **detect:** Detect `ZG-303Z` as HOBEIAN ZG-303Z and `CS-201Z` as COOLO CS-201Z ([#11091](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11091)) ([5123afe](https://github.com/Koenkk/zigbee-herdsman-converters/commit/5123afef138e9c9c19cd509d25b8acdf8c72e5c0))
+* J.XUAN WSZ01: fix `action` ([#11089](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11089)) ([c45d9e7](https://github.com/Koenkk/zigbee-herdsman-converters/commit/c45d9e788a20de9a1803ae46609d37d94bae1b44))
+* SONOFF SNZB-02P: add more entity categories ([#11095](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11095)) ([def06e3](https://github.com/Koenkk/zigbee-herdsman-converters/commit/def06e3a6f24c4ccf0eb46a1e43a2a44d9697aa0))
+
 ## [25.93.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.92.0...v25.93.0) (2025-12-23)
 
 
